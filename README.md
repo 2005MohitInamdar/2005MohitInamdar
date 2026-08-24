@@ -1,13 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Mohit Inamdar</h1>
 <h3 align="center">AI Engineer & Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2005MohitInamdar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building_AI_Apps-success?style=flat&logo=appveyor" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%7C_AI-blue?style=flat" alt="Focus" />
-</p>
+## 👋 About Me
+I'm an AI Engineer and Full-Stack Developer passionate about building intelligent and scalable applications.
 
----
+I work with AI/ML, LLMs, RAG systems, Computer Vision, and modern web technologies to turn ideas into working products.
 
-I’m currently exploring **multi-node agentic workflows** and full-stack architectures.  
-Fun fact: When I'm not coding, you'll find me swimming, practicing Karate, or sketching.
+Currently, I'm exploring agentic AI, intelligent data analysis, and real-world AI applications. 🚀
