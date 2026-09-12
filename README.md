@@ -10,7 +10,7 @@ Focused on AI/ML, LLMs, RAG, AI-powered automation, and scalable AI systems. I e
 
 Currently exploring **agentic AI, Computer Vision and Cloud Systems**.
 
-Always learning, experimenting, and building something new. 🚀
+Always learning, experimenting, and building something new. 
 
 ---
 ## 💡 Technical Interests
@@ -23,3 +23,41 @@ Always learning, experimenting, and building something new. 🚀
 </p>
 
 ---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+**Frameworks & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/FAISS-00A1E4?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
+</p>
+
+**AI / LLM Orchestration**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+</p>
+
+---
+
+## A Few Fun Facts
+
+- I play the **flute** — code by day, melodies by night
+- Certified **travel enthusiast** always plotting the next trip
+- I **sketch** in my free time turning blank pages into little worlds
+- Perpetually curious, perpetually building something new
