@@ -57,7 +57,7 @@ Always learning, experimenting, and building something new.
 
 ## A Few Fun Facts
 
-- I play the **flute** — code by day, melodies by night
+- I play the **flute** soo code by day, melodies by night
 - Certified **travel enthusiast** always plotting the next trip
 - I **sketch** in my free time turning blank pages into little worlds
 - Perpetually curious, perpetually building something new
