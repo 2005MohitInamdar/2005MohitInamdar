@@ -60,4 +60,3 @@ Always learning, experimenting, and building something new.
 - I play the **flute** soo code by day, melodies by night
 - Certified **travel enthusiast** always plotting the next trip
 - I **sketch** in my free time turning blank pages into little worlds
-- Perpetually curious, perpetually building something new
